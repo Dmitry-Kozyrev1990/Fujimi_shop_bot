@@ -69,7 +69,7 @@ min_amount = 6460
 max_amount = 64604991
 # The preset selections that can be made when adding credit to the wallet with a credit card
 # Presets are pipe-separated |, and should never be outside the bounds provided by the min_amount and max_amount options
-payment_presets = [10.00, 25.00, 50.00, 100.00]
+payment_presets = [10000.00, 25000.00, 50000.00, 100000.00]
 # Suggested tip amounts in minimum currency units
 # Maximum 4 values; if the array is empty, the feature is disabled
 # Enabling this feature is not recommended, as it may be confusing for the users
